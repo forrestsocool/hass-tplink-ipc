@@ -1,5 +1,5 @@
 {
-  "domain": "tp_link_ipc",
+  "domain": "tplink_ipc",
   "name": "TP-Link IPC",
   "config_flow": true,
   "documentation": "https://github.com/bingooo/hass-tplink-ipc",
