@@ -32,6 +32,17 @@
 
 见集成设备中的开关
 
+如果配合 WebRTC Camera 使用，可以在画面增加一个自定义按钮，点击切换遮蔽状态。示例：
+
+```
+shortcuts:
+- name: 镜头遮蔽
+icon: mdi:camera-flip-outline
+service: switch.toggle
+service_data:
+entity_id: switch.tp_link_camera_192_168_1_2_lens_mask
+```
+
 ### 播放音频
 
 在集成设备中找到 "Speaker"，点击后选择播放的媒体即可。或者在 homeassistant 侧边菜单中选择 "媒体" - 右下角切换播放设备为对应摄像头即可。
