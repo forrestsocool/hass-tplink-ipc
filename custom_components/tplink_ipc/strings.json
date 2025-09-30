@@ -1,0 +1,22 @@
+{
+  "config": {
+    "step": {
+      "user": {
+        "title": "Connect to TP-Link IPC Camera",
+        "description": "Enter connection details for your camera.",
+        "data": {
+          "host": "Host (IP Address)",
+          "username": "Username",
+          "password": "Password"
+        }
+      }
+    },
+    "error": {
+      "cannot_connect": "Failed to connect. Please check host, username, and password.",
+      "unknown": "An unknown error occurred."
+    },
+    "abort": {
+      "already_configured": "Device is already configured"
+    }
+  }
+}
