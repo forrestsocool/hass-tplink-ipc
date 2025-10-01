@@ -13,7 +13,7 @@
 
 #### HACS直接安装
 
-[![Install repository](https://my.home-assistant.io/badges/hacs_repository.svg)](https://my.home-assistant.io/redirect/hacs_repository/?owner=bingooo&repository=hass-tplink-ipc&category=integration)
+[![Install repository](https://my.home-assistant.io/badges/hacs_repository.svg)](https://my.home-assistant.io/redirect/hacs_repository/?owner=forrestsocool&repository=hass-tplink-ipc&category=integration)
 
 #### 手动安装
 
