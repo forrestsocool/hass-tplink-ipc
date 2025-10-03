@@ -57,7 +57,7 @@ class TPLinkIPCApiClient:
             "login": {
                 "username": self.username,
                 "password": encrypted_password,
-                "encrypt_type": "3",
+                "encrypt_type": "2",
                 "md5_encrypt_type": "1"
             }
         }
